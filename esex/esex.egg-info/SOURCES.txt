@@ -1,0 +1,7 @@
+esex.py
+setup.py
+esex.egg-info/PKG-INFO
+esex.egg-info/SOURCES.txt
+esex.egg-info/dependency_links.txt
+esex.egg-info/entry_points.txt
+esex.egg-info/top_level.txt

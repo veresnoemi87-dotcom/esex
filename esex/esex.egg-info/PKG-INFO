@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: esex
+Version: 3.0.0
+Summary: True Native PE Compiler for ES (Executable Script) DSL
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
+Dynamic: classifier
+Dynamic: requires-python
+Dynamic: summary
