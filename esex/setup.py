@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="esex",
-    version="3.0.0",
+    version="3.5.0",
     description="True Native PE Compiler for ES (Executable Script) DSL",
     py_modules=["esex"],
     entry_points={
